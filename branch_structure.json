@@ -1,0 +1,18 @@
+{
+  "default_branch": "test-implement-drips",
+  "branches": [
+    "origin",
+    "test-implement-drips",
+    "test/use-wallet-resilience"
+  ],
+  "parent": {
+    "origin": "test-implement-drips",
+    "test-implement-drips": null,
+    "test/use-wallet-resilience": "test-implement-drips"
+  },
+  "order": [
+    "test-implement-drips",
+    "origin",
+    "test/use-wallet-resilience"
+  ]
+}
