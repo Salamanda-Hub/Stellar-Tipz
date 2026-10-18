@@ -57,3 +57,6 @@ issue.md
 pr.md
 PR_DESCRIPTION_*.md
 FIXES.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
